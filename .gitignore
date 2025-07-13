@@ -6,10 +6,10 @@
 npm-*
 
 # generated locale files
-/locales
+# /locales
 
 # generated build files
-/dist
+# /dist
 
 # TW: secret API token
 .tx_token
