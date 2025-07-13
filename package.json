@@ -1,6 +1,6 @@
 {
   "name": "@turbowarp/scratch-l10n",
-  "version": "3.1001.0",
+  "version": "3.1001.01",
   "description": "Minified scratch-l10n for TurboWarp",
   "main": "./dist/l10n.js",
   "browser": "./src/index.js",
