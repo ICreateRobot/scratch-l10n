@@ -569,6 +569,18 @@
     "gui.alert.robotDisConnect": "Robot disconnected",
     "gui.alert.espToolTimeout":"Flashing timed out. Please check the port connection",
     "gui.alert.espToolFailed":"Flashing failed",
-    "gui.codeofnumber":"default Program"
+    "gui.codeofnumber":"default Program",
+    "ic.sampleProgram":"Sample Program",
+    "ic.sampleProgram.sb3":"SB3 Sample Program",
+    "ic.sampleProgram.py":"Python Sample Program",
+    "ic.sampleProgram.noExample":"No examples available",
+    "ic.sampleProgram.image":"Image Transmission Remote Control",
+    "ic.sampleProgram.fire":"Firefighting Guardian",
+    "ic.sampleProgram.subway":"Subway Simulation",
+    "ic.sampleProgram.line":"Line-following Robot",
+    "ic.sampleProgram.voiceCon":"Voice-controlled Robot",
+    "ic.sampleProgram.apriltag":"Apriltag Code Recognition",
+    "ic.sampleProgram.app":"App Remote Control",
+    "ic.sampleProgram.transport":"Trabsport Robot"
 
 }

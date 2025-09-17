@@ -4304,7 +4304,7 @@ export default {
     "robotactuator.showToast.dontConnect": "Robot not connected",
     "robotactuator.showToast.reconnect": "Socket disconnected, attempting to reconnect...",
     "robotactuator.showToast.connecting": "Socket is connecting, please wait",
-    "robotapriltag.showToast.firstCamera": "Please turn on the camera first",
+    "robotapriltag.showToast.firstCamera": "Please open the camera first",
     "robotqr.showToast.firstMode": "QR code recognition mode is not enabled",
     "robotimg.showToast.haveCamera": "Camera already in use in the current mode",
     "robotgood.showToast.firstMode": "Object recognition mode is not enabled",

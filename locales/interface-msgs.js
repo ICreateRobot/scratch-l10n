@@ -5875,7 +5875,20 @@ export default {
     "gui.alert.espToolFinish": "Flashing completed",
     "gui.alert.robotDisConnect": "Robot disconnected",
     "gui.alert.espToolTimeout": "Flashing timed out. Please check the port connection",
-    "gui.codeofnumber": "default Program"
+    "gui.alert.espToolFailed": "Flashing failed",
+    "gui.codeofnumber": "default Program",
+    "ic.sampleProgram": "Sample Program",
+    "ic.sampleProgram.sb3": "SB3 Sample Program",
+    "ic.sampleProgram.py": "Python Sample Program",
+    "ic.sampleProgram.noExample": "No examples available",
+    "ic.sampleProgram.image": "Image Transmission Remote Control",
+    "ic.sampleProgram.fire": "Firefighting Guardian",
+    "ic.sampleProgram.subway": "Subway Simulation",
+    "ic.sampleProgram.line": "Line-following Robot",
+    "ic.sampleProgram.voiceCon": "Voice-controlled Robot",
+    "ic.sampleProgram.apriltag": "Apriltag Code Recognition",
+    "ic.sampleProgram.app": "App Remote Control",
+    "ic.sampleProgram.transport": "Trabsport Robot"
   },
   "es": {
     "gui.alerts.tryAgain": "Vuelve a intentarlo",
@@ -24339,7 +24352,20 @@ export default {
     "gui.alert.espToolFinish": "烧录完成",
     "gui.alert.robotDisConnect": "机器人连接断开",
     "gui.alert.espToolTimeout": "烧录超时，请检查端口状态",
-    "gui.codeofnumber": "号默认程序"
+    "gui.alert.espToolFailed": "烧录失败",
+    "gui.codeofnumber": "号默认程序",
+    "ic.sampleProgram": "示例程序",
+    "ic.sampleProgram.sb3": "SB3 示例",
+    "ic.sampleProgram.py": "Python 示例",
+    "ic.sampleProgram.noExample": "没有可用示例程序",
+    "ic.sampleProgram.image": "图传遥控",
+    "ic.sampleProgram.fire": "消防卫士",
+    "ic.sampleProgram.subway": "地铁模拟",
+    "ic.sampleProgram.line": "巡线机器人",
+    "ic.sampleProgram.voiceCon": "声控机器人",
+    "ic.sampleProgram.apriltag": "Apriltag 码识别",
+    "ic.sampleProgram.app": "App 遥控",
+    "ic.sampleProgram.transport": "搬运机器人"
   },
   "zh-tw": {
     "gui.alerts.tryAgain": "再試一次",

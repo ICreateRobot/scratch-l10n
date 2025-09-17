@@ -1291,6 +1291,7 @@
     "gui.alert.downSuccess",
     "gui.alert.connectFailed",
     "gui.alert.espToolFinish",
+    "gui.alert.espToolFailed",
     "gui.alert.robotDisConnect",
     "gui.alert.espToolTimeout",
     "gui.codeofnumber",
@@ -1321,5 +1322,17 @@
   "brickssensors.formatMenuColor.green",
   "brickssensors.formatMenuColor.black",
   "brickssensors.formatMenuColor.white",
-  "brickssensors.touch"
+  "brickssensors.touch",
+  "ic.sampleProgram",
+  "ic.sampleProgram.sb3",
+  "ic.sampleProgram.py",
+  "ic.sampleProgram.noExample",
+  "ic.sampleProgram.image",
+  "ic.sampleProgram.fire",
+  "ic.sampleProgram.subway",
+  "ic.sampleProgram.line",
+  "ic.sampleProgram.voiceCon",
+  "ic.sampleProgram.apriltag",
+  "ic.sampleProgram.app",
+  "ic.sampleProgram.transport"
 ]
