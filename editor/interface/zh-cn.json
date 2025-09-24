@@ -582,5 +582,7 @@
     "ic.sampleProgram.voiceCon":"声控机器人",
     "ic.sampleProgram.apriltag":"Apriltag 码识别",
     "ic.sampleProgram.app":"App 遥控",
-    "ic.sampleProgram.transport":"搬运机器人"
+    "ic.sampleProgram.transport":"搬运机器人",
+    "gui.extension.robotextend.name":"外接Microbit",
+    "gui.extension.robotextend.description":"外接Microbit"
 }

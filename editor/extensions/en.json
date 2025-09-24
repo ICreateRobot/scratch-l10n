@@ -463,6 +463,16 @@
     "robotimg.showToast.haveWifiCamera":"Wi-Fi connection to the robot is not established.",
 
 
+    "robotextend.name":"External Microbi",
+    "robotextend.actuator":"Actuator",
+    "robotextend.sensor":"Sensor",
+    "robotextend.joystickBool":"Joystick detecte[ONE]",
+    "robotextend.joystickRepo":"Joystick [ONE] Directio",
+    "robotextend.Dir.up":"up",
+    "robotextend.Dir.down":"down",
+    "robotextend.Dir.left":"left",
+    "robotextend.Dir.right":"right",
+
     "brickslight.outlight": "Port [ONE] set to [TWO]",
     "brickslight.inlight": "Position [ONE] set to [TWO]",
     "brickslight.formatMenuImg.leftTop": "Top left",

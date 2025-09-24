@@ -5888,7 +5888,9 @@ export default {
     "ic.sampleProgram.voiceCon": "Voice-controlled Robot",
     "ic.sampleProgram.apriltag": "Apriltag Code Recognition",
     "ic.sampleProgram.app": "App Remote Control",
-    "ic.sampleProgram.transport": "Trabsport Robot"
+    "ic.sampleProgram.transport": "Trabsport Robot",
+    "gui.extension.robotextend.name": "External Microbit",
+    "gui.extension.robotextend.description": "External Microbit"
   },
   "es": {
     "gui.alerts.tryAgain": "Vuelve a intentarlo",
@@ -24365,7 +24367,9 @@ export default {
     "ic.sampleProgram.voiceCon": "声控机器人",
     "ic.sampleProgram.apriltag": "Apriltag 码识别",
     "ic.sampleProgram.app": "App 遥控",
-    "ic.sampleProgram.transport": "搬运机器人"
+    "ic.sampleProgram.transport": "搬运机器人",
+    "gui.extension.robotextend.name": "外接Microbit",
+    "gui.extension.robotextend.description": "外接Microbit"
   },
   "zh-tw": {
     "gui.alerts.tryAgain": "再試一次",

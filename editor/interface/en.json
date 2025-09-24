@@ -581,6 +581,8 @@
     "ic.sampleProgram.voiceCon":"Voice-controlled Robot",
     "ic.sampleProgram.apriltag":"Apriltag Code Recognition",
     "ic.sampleProgram.app":"App Remote Control",
-    "ic.sampleProgram.transport":"Trabsport Robot"
+    "ic.sampleProgram.transport":"Trabsport Robot",
+    "gui.extension.robotextend.name":"External Microbit",
+    "gui.extension.robotextend.description":"External Microbit"
 
 }

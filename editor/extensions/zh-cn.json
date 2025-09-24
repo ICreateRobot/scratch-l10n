@@ -444,6 +444,17 @@
     "robotshow.showMode.toptobottom": "自上往下",
     "robotshow.showMode.bottomtotop": "自下往上",
 
+    "robotextend.name":"外接Microbit",
+    "robotextend.actuator":"执行器",
+    "robotextend.sensor":"传感器",
+    "robotextend.joystickBool":"检测到摇杆[ONE]",
+    "robotextend.joystickRepo":"摇杆[ONE]方向",
+    "robotextend.Dir.up":"上",
+    "robotextend.Dir.down":"下",
+    "robotextend.Dir.left":"左",
+    "robotextend.Dir.right":"右",
+
+
     "robotmove.moveClearDistance":"清除移动距离",
 
     "robotactuator.showToast.dontConnect": "未连接机器人",
