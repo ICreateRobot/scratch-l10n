@@ -584,5 +584,20 @@
     "ic.sampleProgram.app":"App 遥控",
     "ic.sampleProgram.transport":"搬运机器人",
     "gui.extension.robotextend.name":"外接Microbit",
-    "gui.extension.robotextend.description":"外接Microbit"
+    "gui.extension.robotextend.description":"外接Microbit",
+    "gui.master.select": "选择设备",
+    "gui.firmware.title": "固件烧录工具",
+    "gui.firmware.icrobot": "ICRobot 普通固件",
+    "gui.firmware.xiaozhi": "小智 AI 固件",
+    "gui.firmware.microbit": "Microbit 固件",
+    "gui.firmware.completed": "设备已烧录完成",
+    "gui.firmware.reconnet": "请拔下并重新插入设备，然后点击下方按钮继续上传文件。",
+    "gui.firmware.continue": "已重新连接，继续上传",
+    "gui.connect.serialName": "串口",
+    "gui.connect.bleName": "蓝牙",
+    "gui.connect.qrName": "二维码",
+    "gui.connect.shouquan": "已授权",
+    "gui.connect.scan": "扫描设备",
+    "gui.connect.disconnect": "断开连接",
+    "gui.firmware.logs":"运行日志"
 }

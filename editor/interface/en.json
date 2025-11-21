@@ -583,6 +583,21 @@
     "ic.sampleProgram.app":"App Remote Control",
     "ic.sampleProgram.transport":"Trabsport Robot",
     "gui.extension.robotextend.name":"External Microbit",
-    "gui.extension.robotextend.description":"External Microbit"
+    "gui.extension.robotextend.description":"External Microbit",
+    "gui.master.select": "select device",
+    "gui.firmware.title": "Firmware Flashing Tool",
+    "gui.firmware.icrobot": "ICRobot Standard Firmware",
+    "gui.firmware.xiaozhi": "XiaoZhi AI Firmware",
+    "gui.firmware.microbit": "Microbit Firmware",
+    "gui.firmware.completed": "Device Flashing Completed",
+    "gui.firmware.reconnet": "Please unplug and replug the device, then click the button below to continue uploading files.",
+    "gui.firmware.continue": "Reconnected, Continue Uploading",
+    "gui.connect.serialName": "serial",
+    "gui.connect.bleName": "Bluetooth",
+    "gui.connect.qrName": "qrCode",
+    "gui.connect.shouquan": "Authorized",
+    "gui.connect.scan": "scan device",
+    "gui.connect.disconnect": "disconnect",
+    "gui.firmware.logs":"Operation Log"
 
 }
