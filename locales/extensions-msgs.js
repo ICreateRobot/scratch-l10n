@@ -4741,7 +4741,7 @@ export default {
     "k210.menuMode.faceRecogn": "face recognition",
     "k210.menuMode.deep": "deep learning",
     "k210.menuMode.road": "road sign recognition",
-    "loadProject.desc": "The project mode (Interactive / Download) does not match the current software mode (Interactive Download).",
+    "loadProject.desc": "This project can only be opened in either Interactive Mode or Download Mode. Please switch to the appropriate mode and try again.",
     "robot.wifi": "Network connection has been disconnected"
   },
   "es": {
@@ -14860,7 +14860,7 @@ export default {
     "k210.menuMode.faceRecogn": "Rozpoznawanie twarzy",
     "k210.menuMode.deep": "Uczenie głębokie",
     "k210.menuMode.road": "Rozpoznawanie znaków drogowych",
-    "loadProject.desc": "Tryb projektu (interaktywny / pobieranie) nie jest zgodny z aktualnym trybem oprogramowania (interaktywne pobieranie).",
+    "loadProject.desc": "Ten projekt może być otwarty tylko w trybie interaktywnym lub trybie pobierania. Proszę przełączyć się na odpowiedni tryb i spróbować ponownie.",
     "robot.wifi": "Połączenie sieciowe zostało rozłączone"
   },
   "pt": {
@@ -16594,7 +16594,7 @@ export default {
     "k210.menuMode.faceRecogn": "распознавание лиц",
     "k210.menuMode.deep": "глубинное обучение",
     "k210.menuMode.road": "распознавание дорожных знаков",
-    "loadProject.desc": "режим проекта (интерактивный / загрузка) не соответствует текущему режиму программы (интерактивная загрузка)",
+    "loadProject.desc": "Этот проект можно открыть только в режиме взаимодействия или в режиме загрузки. Пожалуйста, переключитесь на соответствующий режим и попробуйте снова.",
     "robot.wifi": "Сетевое соединение разорвано"
   },
   "nso": {
@@ -19618,7 +19618,7 @@ export default {
     "k210.menuMode.faceRecogn": "人脸识别",
     "k210.menuMode.deep": "深度学习",
     "k210.menuMode.road": "路标识别",
-    "loadProject.desc": "该项目的模式（互动/下载）与当前软件模式（互动下载）不匹配",
+    "loadProject.desc": "此项目只能在互动模式或下载模式中打开，请切换到相应的模式再试。",
     "robot.wifi": "网络连接已断开"
   },
   "zh-tw": {
@@ -20492,7 +20492,7 @@ export default {
     "k210.menuMode.faceRecogn": "人臉識別",
     "k210.menuMode.deep": "深度學習",
     "k210.menuMode.road": "路標識別",
-    "loadProject.desc": "該專案的模式（互動／下載）與目前軟體模式（互動／下載）不匹配",
+    "loadProject.desc": "此專案只能在互動模式或下載模式中打開，請切換到相應的模式再試。",
     "robot.wifi": "網路連線已中斷"
   }
 };

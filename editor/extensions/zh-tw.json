@@ -965,6 +965,6 @@
     "k210.menuMode.deep": "深度學習",
     "k210.menuMode.road": "路標識別",
 
-    "loadProject.desc": "該專案的模式（互動／下載）與目前軟體模式（互動／下載）不匹配",
+    "loadProject.desc": "此專案只能在互動模式或下載模式中打開，請切換到相應的模式再試。",
     "robot.wifi": "網路連線已中斷"
 }

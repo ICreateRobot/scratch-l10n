@@ -898,6 +898,6 @@
     "k210.menuMode.faceRecogn": "人脸识别",
     "k210.menuMode.deep": "深度学习",
     "k210.menuMode.road": "路标识别",
-    "loadProject.desc":"该项目的模式（互动/下载）与当前软件模式（互动下载）不匹配",
+    "loadProject.desc":"此项目只能在互动模式或下载模式中打开，请切换到相应的模式再试。",
     "robot.wifi":"网络连接已断开"
 }

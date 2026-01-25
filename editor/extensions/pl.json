@@ -917,7 +917,7 @@
     "k210.menuMode.faceRecogn": "Rozpoznawanie twarzy",
     "k210.menuMode.deep": "Uczenie głębokie",
     "k210.menuMode.road": "Rozpoznawanie znaków drogowych",
-    "loadProject.desc":"Tryb projektu (interaktywny / pobieranie) nie jest zgodny z aktualnym trybem oprogramowania (interaktywne pobieranie).",
+    "loadProject.desc":"Ten projekt może być otwarty tylko w trybie interaktywnym lub trybie pobierania. Proszę przełączyć się na odpowiedni tryb i spróbować ponownie.",
     "robot.wifi":"Połączenie sieciowe zostało rozłączone"
 
 }

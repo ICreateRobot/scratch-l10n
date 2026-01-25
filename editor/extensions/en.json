@@ -899,6 +899,6 @@
     "k210.menuMode.faceRecogn": "face recognition",
     "k210.menuMode.deep": "deep learning",
     "k210.menuMode.road": "road sign recognition",
-    "loadProject.desc":"The project mode (Interactive / Download) does not match the current software mode (Interactive Download).",
+    "loadProject.desc":"This project can only be opened in either Interactive Mode or Download Mode. Please switch to the appropriate mode and try again.",
     "robot.wifi":"Network connection has been disconnected"
 }
