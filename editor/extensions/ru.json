@@ -459,7 +459,7 @@
 "robotshow.showMode.toptobottom":"сверху вниз",
 "robotshow.showMode.bottomtotop":"снизу вверх",
 
-"robotextend.name":"внешний модуль Micro:bit",
+"robotextend.name":"Внешний модуль",
 "robotextend.actuator":"исполнительное устройство",
 "robotextend.sensor":"датчик",
 
@@ -965,7 +965,29 @@
 "k210.menuMode.road":"распознавание дорожных знаков",
 
 "loadProject.desc":"Этот проект можно открыть только в режиме взаимодействия или в режиме загрузки. Пожалуйста, переключитесь на соответствующий режим и попробуйте снова.",
-"robot.wifi":"Сетевое соединение разорвано"
+"robot.wifi":"Сетевое соединение разорвано",
+"robotpin.name": "Пины",
+  "robotpin.message": "⚠ Устаревшее оборудование (< v2.0.0): Используйте только порты port1_0 и port1_1. Аналоговый вход на port1_0 не поддерживается.",
+  "robotpin.setDigital": "установить цифровой пин [PIN] как [CHOICE]",
+  "robotpin.setPwm": "установить ШИМ пин [PIN] частота [FREQ] скважность [NUM]",
+  "robotpin.setPinMode": "установить режим пина [PIN] как [MODE]",
+  "robotpin.readDigitalPin": "считать цифровой пин [PIN]",
+  "robotpin.readAnalogPin": "считать аналоговый пин [PIN]",
+  "robotpin.setIICPort": "установить порт IIC [PORT]",
+  "robotpin.IICScan": "сканировать адрес IIC",
+  "robotpin.IICWriteTo": "записать [DATA] в I2C устройство по адресу [ADDR]",
+  "robotpin.IICWriteToMem": "записать [DATA] в регистр [MEMADDR] устройства I2C [ADDR]",
+  "robotpin.IICReadFrom": "считать [NBYTES] байт с I2C устройства по адресу [ADDR]",
+  "robotpin.IICReadFromInto": "считать данные I2C устройства [ADDR] в [BUF]",
+  "robotpin.IICReadFromMem": "считать [NBYTES] байт из регистра [MEMADDR] устройства I2C [ADDR]",
+  "robotpin.IICReadFromMemInto": "считать регистр [MEMADDR] устройства I2C [ADDR] в [BUF]",
+  "robotpin.setDigital.DIGITAL_HIGHLOW.high": "высокий",
+  "robotpin.setDigital.DIGITAL_HIGHLOW.low": "низкий",
+  "robotpin.setPinMode.PIN_MODE.ANALOG": "аналоговый вход",
+  "robotpin.setPinMode.PIN_MODE.DIGITAL": "цифровой вход",
+  "robotsensors.motoStop": "Обнаружена блокировка двигателя",
+  "robotsensors.motoDesc": "Обнаружена блокировка двигателя. Пожалуйста, проверьте состояние оборудования, устраните неисправность и повторите попытку.",
+  "robotsensors.motoOK": "ОК"
 
 
 }

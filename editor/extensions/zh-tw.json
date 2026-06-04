@@ -460,7 +460,7 @@
     "robotshow.showMode.toptobottom": "自上往下",
     "robotshow.showMode.bottomtotop": "自下往上",
 
-    "robotextend.name": "外接 Microbit 模組",
+    "robotextend.name": "外接模組",
     "robotextend.actuator": "執行器",
     "robotextend.sensor": "感測器",
     "robotextend.joystickBool": "埠口 [TWO] 偵測到搖桿 [ONE]",
@@ -966,5 +966,27 @@
     "k210.menuMode.road": "路標識別",
 
     "loadProject.desc": "此專案只能在互動模式或下載模式中打開，請切換到相應的模式再試。",
-    "robot.wifi": "網路連線已中斷"
+    "robot.wifi": "網路連線已中斷",
+    "robotpin.name": "引腳控制",
+    "robotpin.message": "舊硬體 (< v2.0.0)：僅可使用 port1_0 及 port1_1。port1_0 不支援類比輸入。",
+    "robotpin.setDigital": "設定數位引腳 [PIN] 輸出為 [CHOICE]",
+    "robotpin.setPwm": "設定 PWM 引腳 [PIN] 頻率 [FREQ] 佔空比 [NUM]",
+    "robotpin.setPinMode": "設定引腳 [PIN] 模式為 [MODE]",
+    "robotpin.readDigitalPin": "讀取數位引腳 [PIN]",
+    "robotpin.readAnalogPin": "讀取類比引腳 [PIN]",
+    "robotpin.setIICPort": "設定 IIC 埠 [PORT]",
+    "robotpin.IICScan": "掃描 IIC 位址",
+    "robotpin.IICWriteTo": "向位址為 [ADDR] 的 I2C 裝置寫入 [DATA]",
+    "robotpin.IICWriteToMem": "向位址為 [ADDR] 暫存器 [MEMADDR] 寫入 [DATA]",
+    "robotpin.IICReadFrom": "從位址為 [ADDR] 的 I2C 裝置讀取 [NBYTES] 位元組",
+    "robotpin.IICReadFromInto": "將 I2C 裝置 [ADDR] 讀入 [BUF]",
+    "robotpin.IICReadFromMem": "從位址為 [ADDR] 暫存器 [MEMADDR] 讀取 [NBYTES] 位元組",
+    "robotpin.IICReadFromMemInto": "將 I2C 裝置 [ADDR] 暫存器 [MEMADDR] 讀入 [BUF]",
+    "robotpin.setDigital.DIGITAL_HIGHLOW.high": "高電位",
+    "robotpin.setDigital.DIGITAL_HIGHLOW.low": "低電位",
+    "robotpin.setPinMode.PIN_MODE.ANALOG": "類比輸入",
+    "robotpin.setPinMode.PIN_MODE.DIGITAL": "數位輸入",
+    "robotsensors.motoStop": "馬達堵轉",
+    "robotsensors.motoDesc": "檢測到馬達發生堵轉，請及時檢查設備運行狀態，排查問題後重試。",
+    "robotsensors.motoOK": "確定"
 }

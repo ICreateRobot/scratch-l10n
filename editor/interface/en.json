@@ -582,8 +582,8 @@
     "ic.sampleProgram.apriltag":"Apriltag Code Recognition",
     "ic.sampleProgram.app":"App Remote Control",
     "ic.sampleProgram.transport":"Trabsport Robot",
-    "gui.extension.robotextend.name":"External Microbit",
-    "gui.extension.robotextend.description":"External Microbit",
+    "gui.extension.robotextend.name":"External Module",
+    "gui.extension.robotextend.description":"External Module",
     "gui.master.select": "select device",
     "gui.firmware.title": "Firmware Flashing Tool",
     "gui.firmware.icrobot": "ICRobot Standard Firmware",
@@ -598,6 +598,19 @@
     "gui.connect.shouquan": "Authorized",
     "gui.connect.scan": "scan device",
     "gui.connect.disconnect": "disconnect",
-    "gui.firmware.logs":"Operation Log"
-
+    "gui.firmware.logs":"Operation Log",
+    "gui.extension.robotpin.name":"ICrobot Pin Control",
+    "gui.extension.robotpin.description":"This extension can control the digital pins, analog pins, and IIC pins of ICrobot devices.",
+    "gui.ai.pleaseInput": "Please enter",
+    "gui.ai.blocklySuccess": "Blockly code generated successfully!",
+    "gui.ai.genFailed": "Generation failed",
+    "gui.ai.unknowErr": "Unknown error",
+    "gui.ai.aiFailed": "AI request failed",
+    "gui.ai.qaMode": "Q&A Mode",
+    "gui.ai.codeMode": "Coding Mode",
+    "gui.ai.sending": "Sending...",
+    "gui.ai.send": "Send",
+    "gui.ai.close": "Close AI Mode",
+    "gui.ai.open": "Open AI Mode",
+    "gui.ai.beta":"The AI feature is currently in beta. You can try it now."
 }

@@ -463,7 +463,7 @@
     "robotimg.showToast.haveWifiCamera":"Wi-Fi connection to the robot is not established.",
 
 
-    "robotextend.name":"External Microbit Module",
+    "robotextend.name":"External Module",
     "robotextend.actuator":"Actuator",
     "robotextend.sensor":"Sensor",
     "robotextend.joystickBool":"port [TWO] Joystick detecte[ONE]",
@@ -900,5 +900,27 @@
     "k210.menuMode.deep": "deep learning",
     "k210.menuMode.road": "road sign recognition",
     "loadProject.desc":"This project can only be opened in either Interactive Mode or Download Mode. Please switch to the appropriate mode and try again.",
-    "robot.wifi":"Network connection has been disconnected"
+    "robot.wifi":"Network connection has been disconnected",
+    "robotpin.name": "Pin",
+  "robotpin.message": "⚠ Old hardware (< v2.0.0): Use port1_0 and port1_1 only. Analog input is not supported on port1_0",
+  "robotpin.setDigital": "set digital pin [PIN] output as [CHOICE]",
+  "robotpin.setPwm": "set PWM pin [PIN] frequency [FREQ] duty [NUM]",
+  "robotpin.setPinMode": "set pin [PIN] mode [MODE]",
+  "robotpin.readDigitalPin": "read digital pin [PIN]",
+  "robotpin.readAnalogPin": "read analog pin [PIN]",
+  "robotpin.setIICPort": "set IIC port [PORT]",
+  "robotpin.IICScan": "scan IIC address",
+  "robotpin.IICWriteTo": "write [DATA] to I2C device at address [ADDR]",
+  "robotpin.IICWriteToMem": "write [DATA] to I2C device [ADDR] register [MEMADDR]",
+  "robotpin.IICReadFrom": "read [NBYTES] bytes from I2C device at address [ADDR]",
+  "robotpin.IICReadFromInto": "read I2C device [ADDR] into [BUF]",
+  "robotpin.IICReadFromMem": "read [NBYTES] bytes from I2C device [ADDR] register [MEMADDR]",
+  "robotpin.IICReadFromMemInto": "read I2C device [ADDR] register [MEMADDR] into [BUF]",
+  "robotpin.setDigital.DIGITAL_HIGHLOW.high": "high",
+  "robotpin.setDigital.DIGITAL_HIGHLOW.low": "low",
+  "robotpin.setPinMode.PIN_MODE.ANALOG": "analog read",
+  "robotpin.setPinMode.PIN_MODE.DIGITAL": "digital read",
+  "robotsensors.motoStop": "Motor Stall Detected",
+  "robotsensors.motoDesc": "A motor stall has been detected. Please check the equipment's operating status and troubleshoot the issue before trying again.",
+  "robotsensors.motoOK": "OK"
 }

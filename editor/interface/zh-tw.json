@@ -585,8 +585,8 @@
     "ic.sampleProgram.app": "App 遙控",
     "ic.sampleProgram.transport": "搬運機器人",
 
-    "gui.extension.robotextend.name": "外接 Microbit",
-    "gui.extension.robotextend.description": "外接 Microbit",
+    "gui.extension.robotextend.name": "外接模組",
+    "gui.extension.robotextend.description": "外接模組",
 
     "gui.master.select": "選擇裝置",
     "gui.firmware.title": "韌體燒錄工具",
@@ -604,5 +604,19 @@
     "gui.connect.scan": "掃描裝置",
     "gui.connect.disconnect": "中斷連線",
 
-    "gui.firmware.logs": "執行記錄"
+    "gui.firmware.logs": "執行記錄",
+    "gui.extension.robotpin.name":"ICrobot 引腳控制",
+    "gui.extension.robotpin.description":"此擴展可以控制 ICrobot 設備的數位引腳、模擬引腳以及 IIC 引腳。",
+    "gui.ai.pleaseInput": "請輸入",
+    "gui.ai.blocklySuccess": "Blockly 程式碼產生成功！",
+    "gui.ai.genFailed": "生成失敗",
+    "gui.ai.unknowErr": "未知錯誤",
+    "gui.ai.aiFailed": "AI 請求失敗",
+    "gui.ai.qaMode": "問答模式",
+    "gui.ai.codeMode": "程式設計模式",
+    "gui.ai.sending": "發送中...",
+    "gui.ai.send": "發送",
+    "gui.ai.close": "關閉 AI 模式",
+    "gui.ai.open": "開啟 AI 模式",
+    "gui.ai.beta":"AI 功能目前處於測試階段，您可以提前體驗"
 }
